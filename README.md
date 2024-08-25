@@ -15,9 +15,9 @@
 <p align="center">
 <img src="https://i.ibb.co/b624XWV/screencapture-127-0-0-1-5500-src-2024-08-24-17-34-28.png" alt="screencapture-127-0-0-1-5500-src-2024-08-24-17-34-28" border="0" width="400px>
 
-
-</p>
 <br>
+</p>
+
 <h2 id="technologies">💻 Technologies</h2>
 
 Frontend: 
