@@ -18,7 +18,7 @@
 
 </p>
 
-<br>
+</br>
 
 
 <h2 id="technologies">💻 Technologies</h2>
